@@ -12,6 +12,8 @@ public class Test1 {
 		
 		System.out.println("Local Master");
 		
+		System.out.println("Local Master");
+		
 		//this is some new feature
 	}
 
