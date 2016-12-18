@@ -14,6 +14,8 @@ public class Test1 {
 		
 		System.out.println("Local Master");
 		
+		System.out.println("This is last update from remote machine");
+		
 		//this is some new feature
 	}
 
