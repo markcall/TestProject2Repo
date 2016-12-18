@@ -23,6 +23,8 @@ public class Test1 {
 		System.out.println("This is a local change number 2");
 		
 		System.out.println("This is a remote change number 2");
+		
+		System.out.println("This is local update number 3");
 		//this is some new feature
 	}
 
