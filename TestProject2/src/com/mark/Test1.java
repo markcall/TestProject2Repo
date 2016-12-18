@@ -27,6 +27,8 @@ public class Test1 {
 		System.out.println("This is local update number 3");
 		
 		System.out.println("This is local update number 4");
+		
+		System.out.println("This is local update number 5");
 	}
 
 }
