@@ -19,6 +19,8 @@ public class Test1 {
 		System.out.println("This is last update from remote machine number 2");
 		
 		System.out.println("This is my local change");
+		
+		System.out.println("This is a remote change number 2");
 		//this is some new feature
 	}
 
