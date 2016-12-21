@@ -17,4 +17,8 @@ public class Test5 {
 	public void foo2(){
 		System.out.println("foo2");
 	}
+	
+	public void foo3(){
+		System.out.println("foo3");
+	}
 }
