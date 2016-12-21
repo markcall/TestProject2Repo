@@ -6,6 +6,7 @@ public class Test6 {
 	public void foo(){
 		//asjkldhfklajshldkfjas
 		//hagsdhfgaksjdgfkasghd
+		//ashdgfkahgsdkfjh
 	}
 	
 	
