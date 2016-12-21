@@ -8,5 +8,10 @@ public class Test4 {
 		System.out.println("And this is another test 2");
 		System.out.println("And this is another test 3");
 	}
+	
+	
+	public void bar(){
+		System.out.println("bar");
+	}
 
 }
