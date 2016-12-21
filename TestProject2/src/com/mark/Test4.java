@@ -17,5 +17,9 @@ public class Test4 {
 	public void foo(){
 		System.out.println("foo");
 	}
+	
+	public void foo1(){
+		System.out.println("foo");
+	}
 
 }
