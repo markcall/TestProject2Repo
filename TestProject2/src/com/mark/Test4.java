@@ -13,5 +13,9 @@ public class Test4 {
 	public void bar(){
 		System.out.println("bar");
 	}
+	
+	public void foo(){
+		System.out.println("foo");
+	}
 
 }
