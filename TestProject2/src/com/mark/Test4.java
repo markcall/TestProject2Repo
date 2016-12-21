@@ -6,6 +6,7 @@ public class Test4 {
 		System.out.println("Hello world");
 		System.out.println("And this is another test");
 		System.out.println("And this is another test 2");
+		System.out.println("And this is another test 3");
 	}
 
 }
