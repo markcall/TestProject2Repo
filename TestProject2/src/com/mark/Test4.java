@@ -14,6 +14,10 @@ public class Test4 {
 		System.out.println("bar");
 	}
 	
+	public void bar1(){
+		System.out.println("bar");
+	}
+	
 	public void foo(){
 		System.out.println("foo");
 	}
