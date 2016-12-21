@@ -18,6 +18,10 @@ public class Test4 {
 		System.out.println("bar");
 	}
 	
+	public void bar2(){
+		System.out.println("bar");
+	}
+	
 	public void foo(){
 		System.out.println("foo");
 	}
